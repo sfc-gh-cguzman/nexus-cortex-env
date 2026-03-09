@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="20 -20 1540 1495" width="1540" height="1495" style="background: #ffffff;">
+<defs>
+<marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+  <polygon points="0 0, 10 3.5, 0 7" fill="#868e96"/>
+</marker>
+<marker id="arrowhead-orange" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+  <polygon points="0 0, 10 3.5, 0 7" fill="#e67700"/>
+</marker>
+<marker id="arrowhead-purple" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+  <polygon points="0 0, 10 3.5, 0 7" fill="#cdb4db"/>
+</marker>
+</defs>
+<rect x="620" y="130" width="240" height="50" rx="8" ry="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="2" opacity="1.0"/>
+<rect x="620" y="220" width="240" height="50" rx="8" ry="8" fill="#fff9db" stroke="#e67700" stroke-width="2" opacity="1.0"/>
+<rect x="580" y="320" width="320" height="60" rx="8" ry="8" fill="#e7f5ff" stroke="#1971c2" stroke-width="2" opacity="1.0"/>
+<rect x="560" y="440" width="360" height="60" rx="8" ry="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="2" opacity="1.0"/>
+<rect x="60" y="570" width="200" height="40" rx="8" ry="8" fill="#f8f0fc" stroke="#9c36b5" stroke-width="1" opacity="1.0" stroke-dasharray="8 4"/>
+<rect x="300" y="570" width="200" height="40" rx="8" ry="8" fill="#f8f0fc" stroke="#9c36b5" stroke-width="1" opacity="1.0" stroke-dasharray="8 4"/>
+<rect x="540" y="570" width="200" height="40" rx="8" ry="8" fill="#f8f0fc" stroke="#9c36b5" stroke-width="1" opacity="1.0" stroke-dasharray="8 4"/>
+<rect x="780" y="570" width="200" height="40" rx="8" ry="8" fill="#f8f0fc" stroke="#9c36b5" stroke-width="1" opacity="1.0" stroke-dasharray="8 4"/>
+<rect x="1020" y="570" width="200" height="40" rx="8" ry="8" fill="#f8f0fc" stroke="#9c36b5" stroke-width="1" opacity="1.0" stroke-dasharray="8 4"/>
+<rect x="1260" y="570" width="200" height="40" rx="8" ry="8" fill="#f8f0fc" stroke="#9c36b5" stroke-width="1" opacity="1.0" stroke-dasharray="8 4"/>
+<rect x="60" y="980" width="640" height="371.5723155193731" rx="8" ry="8" fill="#e7f5ff" stroke="#1971c2" stroke-width="2" opacity="0.3" stroke-dasharray="8 4"/>
+<rect x="80" y="1103" width="180" height="55" rx="8" ry="8" fill="#d0ebff" stroke="#1971c2" stroke-width="1" opacity="1.0"/>
+<rect x="290" y="1103" width="180" height="55" rx="8" ry="8" fill="#d0ebff" stroke="#1971c2" stroke-width="1" opacity="1.0"/>
+<rect x="500" y="1103" width="180" height="55" rx="8" ry="8" fill="#d0ebff" stroke="#1971c2" stroke-width="1" opacity="1.0"/>
+<rect x="80" y="1193" width="180" height="55" rx="8" ry="8" fill="#d0ebff" stroke="#1971c2" stroke-width="1" opacity="1.0"/>
+<rect x="290" y="1193" width="180" height="55" rx="8" ry="8" fill="#d0ebff" stroke="#1971c2" stroke-width="1" opacity="1.0"/>
+<rect x="500" y="1193" width="180" height="55" rx="8" ry="8" fill="#fff9db" stroke="#e67700" stroke-width="1" opacity="1.0"/>
+<rect x="780" y="980" width="740" height="376.3998095419916" rx="8" ry="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="2" opacity="0.2" stroke-dasharray="8 4"/>
+<rect x="60" y="1385" width="1460" height="50" rx="8" ry="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1" opacity="1.0"/>
+<rect x="60" y="680" width="1460" height="240" rx="8" ry="8" fill="#fff9db" stroke="#e67700" stroke-width="2" opacity="0.25" stroke-dasharray="8 4"/>
+<rect x="80" y="740" width="240" height="50" rx="8" ry="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1" opacity="1.0"/>
+<rect x="460" y="730" width="260" height="70" rx="8" ry="8" fill="#d0ebff" stroke="#1971c2" stroke-width="1" opacity="1.0"/>
+<rect x="800" y="730" width="200" height="36" rx="8" ry="8" fill="#f8f0fc" stroke="#9c36b5" stroke-width="1" opacity="1.0" stroke-dasharray="8 4"/>
+<rect x="800" y="780" width="200" height="36" rx="8" ry="8" fill="#f8f0fc" stroke="#9c36b5" stroke-width="1" opacity="1.0" stroke-dasharray="8 4"/>
+<rect x="800" y="830" width="200" height="36" rx="8" ry="8" fill="#f8f0fc" stroke="#9c36b5" stroke-width="1" opacity="1.0" stroke-dasharray="8 4"/>
+<line x1="740" y1="180" x2="740" y2="220" stroke="#868e96" stroke-width="2" marker-end="url(#arrowhead)"/>
+<line x1="740" y1="270" x2="740" y2="320" stroke="#868e96" stroke-width="2" marker-end="url(#arrowhead)"/>
+<line x1="740" y1="380" x2="740" y2="440" stroke="#868e96" stroke-width="2" marker-end="url(#arrowhead)"/>
+<line x1="640" y1="500" x2="160" y2="570" stroke="#cdb4db" stroke-width="1" marker-end="url(#arrowhead-purple)"/>
+<line x1="670" y1="500" x2="400" y2="570" stroke="#cdb4db" stroke-width="1" marker-end="url(#arrowhead-purple)"/>
+<line x1="710" y1="500" x2="640" y2="570" stroke="#cdb4db" stroke-width="1" marker-end="url(#arrowhead-purple)"/>
+<line x1="770" y1="500" x2="880" y2="570" stroke="#cdb4db" stroke-width="1" marker-end="url(#arrowhead-purple)"/>
+<line x1="810" y1="500" x2="1120" y2="570" stroke="#cdb4db" stroke-width="1" marker-end="url(#arrowhead-purple)"/>
+<line x1="840" y1="500" x2="1360" y2="570" stroke="#cdb4db" stroke-width="1" marker-end="url(#arrowhead-purple)"/>
+<line x1="320" y1="765" x2="440" y2="765" stroke="#e67700" stroke-width="2" marker-end="url(#arrowhead-orange)"/>
+<line x1="720" y1="755" x2="800" y2="748" stroke="#e67700" stroke-width="2" marker-end="url(#arrowhead-orange)"/>
+<line x1="720" y1="765" x2="800" y2="778" stroke="#e67700" stroke-width="2" marker-end="url(#arrowhead-orange)"/>
+<line x1="720" y1="775" x2="800" y2="848" stroke="#e67700" stroke-width="2" marker-end="url(#arrowhead-orange)"/>
+<text x="740.0" y="155.0" fill="#c92a2a" font-size="16" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="bold" text-anchor="middle" dominant-baseline="central">ACCOUNTADMIN</text>
+<text x="740.0" y="245.0" fill="#e67700" font-size="16" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="bold" text-anchor="middle" dominant-baseline="central">SYSADMIN</text>
+<text x="740.0" y="350.0" fill="#1971c2" font-size="20" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="bold" text-anchor="middle" dominant-baseline="central">NEXUS_ADMIN</text>
+<text x="740.0" y="470.0" fill="#2f9e44" font-size="20" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="bold" text-anchor="middle" dominant-baseline="central">NEXUS_AGENT_ADMIN</text>
+<text x="160.0" y="590.0" fill="#9c36b5" font-size="13" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="normal" text-anchor="middle" dominant-baseline="central">&lt;MANUFACTURING_RO&gt;</text>
+<text x="400.0" y="590.0" fill="#9c36b5" font-size="13" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="normal" text-anchor="middle" dominant-baseline="central">&lt;FIELD_SERVICES_RO&gt;</text>
+<text x="640.0" y="590.0" fill="#9c36b5" font-size="13" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="normal" text-anchor="middle" dominant-baseline="central">&lt;HR_RO&gt;</text>
+<text x="880.0" y="590.0" fill="#9c36b5" font-size="13" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="normal" text-anchor="middle" dominant-baseline="central">&lt;FINANCE_RO&gt;</text>
+<text x="1120.0" y="590.0" fill="#9c36b5" font-size="13" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="normal" text-anchor="middle" dominant-baseline="central">&lt;SUPPLY_CHAIN_RO&gt;</text>
+<text x="1360.0" y="590.0" fill="#9c36b5" font-size="13" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="normal" text-anchor="middle" dominant-baseline="central">&lt;QUALITY_RO&gt;</text>
+<text x="170.0" y="1130.5" fill="#1971c2" font-size="16" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="bold" text-anchor="middle" dominant-baseline="central">AGENTS</text>
+<text x="380.0" y="1130.5" fill="#1971c2" font-size="13" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="normal" text-anchor="middle" dominant-baseline="central">SEARCH_SERVICES</text>
+<text x="590.0" y="1130.5" fill="#1971c2" font-size="13" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="normal" text-anchor="middle" dominant-baseline="central">SEMANTIC_VIEWS</text>
+<text x="170.0" y="1220.5" fill="#1971c2" font-size="16" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="bold" text-anchor="middle" dominant-baseline="central">STAGING</text>
+<text x="380.0" y="1220.5" fill="#1971c2" font-size="16" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="bold" text-anchor="middle" dominant-baseline="central">MODELS</text>
+<text x="590.0" y="1220.5" fill="#e67700" font-size="16" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="bold" text-anchor="middle" dominant-baseline="central">NEXUS_WH</text>
+<text x="200.0" y="765.0" fill="#2f9e44" font-size="14" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="normal" text-anchor="middle" dominant-baseline="central">NEXUS_AGENT_ADMIN</text>
+<text x="590.0" y="756.25" fill="#1971c2" font-size="14" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="normal" text-anchor="middle" dominant-baseline="central">NEXUS_DB.AGENTS</text>
+<text x="590.0" y="773.75" fill="#1971c2" font-size="14" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="normal" text-anchor="middle" dominant-baseline="central">&lt;my_agent&gt;</text>
+<text x="900.0" y="748.0" fill="#9c36b5" font-size="12" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="normal" text-anchor="middle" dominant-baseline="central">&lt;MANUFACTURING_RO&gt;</text>
+<text x="900.0" y="798.0" fill="#9c36b5" font-size="12" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="normal" text-anchor="middle" dominant-baseline="central">&lt;FINANCE_RO&gt;</text>
+<text x="900.0" y="848.0" fill="#9c36b5" font-size="12" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="normal" text-anchor="middle" dominant-baseline="central">&lt;...OTHER_RO&gt;</text>
+<text x="740.0" y="56.0" fill="#1e1e1e" font-size="36" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="bold" text-anchor="middle">Nexus Team — RBAC Architecture</text>
+<text x="740.0" y="86.0" fill="#868e96" font-size="16" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">Intuitive Surgical — Cortex Agent Development &amp; Cross-Functional Data Access</text>
+<text x="740.0" y="395.0" fill="#868e96" font-size="13" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">Top-level Nexus team role</text>
+<text x="740.0" y="514.0" fill="#868e96" font-size="12" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">Create/manage agents  |  Inherits RO from functional roles  |  Grants agent access</text>
+<text x="740.0" y="548.0" fill="#9c36b5" font-size="13" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">Existing Functional RO Roles (granted INTO NEXUS_AGENT_ADMIN)</text>
+<text x="760.0" y="637.0" fill="#5c940d" font-size="12" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">NEXUS_AGENT_ADMIN grants USAGE on NEXUS_DB, schema, and agent objects back to these RO roles</text>
+<text x="760.0" y="652.0" fill="#5c940d" font-size="12" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">so functional teams can query agents without broader Nexus privileges</text>
+<text x="380.0" y="1014.0" fill="#1971c2" font-size="24" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="bold" text-anchor="middle">NEXUS_DB</text>
+<text x="380.0" y="1034.0" fill="#868e96" font-size="12" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">Owned by NEXUS_ADMIN  |  New database for agents</text>
+<text x="170.0" y="1171.0" fill="#868e96" font-size="11" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">Cortex Agent objects</text>
+<text x="380.0" y="1171.0" fill="#868e96" font-size="11" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">Cortex Search indexes</text>
+<text x="590.0" y="1171.0" fill="#868e96" font-size="11" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">Cortex Analyst models</text>
+<text x="170.0" y="1261.0" fill="#868e96" font-size="11" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">Raw/intermediate data</text>
+<text x="380.0" y="1261.0" fill="#868e96" font-size="11" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">YAML files / stages</text>
+<text x="590.0" y="1261.0" fill="#868e96" font-size="11" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">Dedicated warehouse</text>
+<text x="1150.0" y="1010.0" fill="#2f9e44" font-size="20" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="bold" text-anchor="middle">NEXUS_AGENT_ADMIN Privileges</text>
+<text x="800" y="1048.5028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start">Agent &amp; AI Privileges</text>
+<text x="800" y="1066.0028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start">  SNOWFLAKE.CORTEX_USER database role</text>
+<text x="800" y="1083.5028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start">  CREATE AGENT on NEXUS_DB.AGENTS</text>
+<text x="800" y="1101.0028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start">  CREATE CORTEX SEARCH SERVICE on NEXUS_DB.SEARCH_SERVICES</text>
+<text x="800" y="1118.5028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start">  CREATE SEMANTIC VIEW on NEXUS_DB.SEMANTIC_VIEWS</text>
+<text x="800" y="1136.0028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start"></text>
+<text x="800" y="1153.5028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start">Database &amp; Schema Privileges</text>
+<text x="800" y="1171.0028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start">  ALL PRIVILEGES on NEXUS_DB (ownership via NEXUS_ADMIN)</text>
+<text x="800" y="1188.5028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start">  USAGE + OPERATE on NEXUS_WH</text>
+<text x="800" y="1206.0028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start">  CREATE TABLE, CREATE STAGE on NEXUS_DB.STAGING</text>
+<text x="800" y="1223.5028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start">  CREATE STAGE on NEXUS_DB.MODELS</text>
+<text x="800" y="1241.0028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start"></text>
+<text x="800" y="1258.5028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start">Data Access (inherited from functional RO roles)</text>
+<text x="800" y="1276.0028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start">  SELECT on source tables across business function databases</text>
+<text x="800" y="1293.5028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start"></text>
+<text x="800" y="1311.0028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start">Grant Management (outbound to functional RO roles)</text>
+<text x="800" y="1328.5028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start">  GRANT USAGE on NEXUS_DB, schema, and agent objects</text>
+<text x="800" y="1346.0028318696702" fill="#1e1e1e" font-size="14" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="start">  Enables functional teams to query agents directly</text>
+<text x="790.0" y="1414.0" fill="#868e96" font-size="13" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">Dashed borders = existing customer roles (TBD)  |  Arrows down = role inheritance  |  RO roles grant data READ up; NEXUS_AGENT_ADMIN grants agent USAGE down</text>
+<text x="740.0" y="708.0" fill="#e67700" font-size="18" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">Agent Access — Grant Flow from NEXUS_AGENT_ADMIN to Functional RO Roles</text>
+<text x="390.0" y="756.0" fill="#e67700" font-size="11" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">CREATES</text>
+<text x="1120.0" y="751.0" fill="#e67700" font-size="11" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" text-anchor="middle">GRANT USAGE ON AGENT</text>
+<text x="80" y="891.0" fill="#495057" font-size="11" font-family="'Cascadia Code', 'Fira Code', 'Source Code Pro', monospace" font-weight="normal" text-anchor="start">GRANT USAGE ON DATABASE NEXUS_DB TO ROLE &lt;FUNCTIONAL_RO&gt;;   GRANT USAGE ON SCHEMA NEXUS_DB.AGENTS TO ROLE &lt;FUNCTIONAL_RO&gt;;   GRANT USAGE ON AGENT NEXUS_DB.AGENTS.&lt;my_agent&gt; TO ROLE &lt;FUNCTIONAL_RO&gt;;</text>
+</svg>
